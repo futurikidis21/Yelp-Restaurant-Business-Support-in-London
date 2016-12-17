@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import math
 import scipy.spatial as sp
 points=[]
+clean_db=pd.read_csv('clean_db.csv')
 for i,val in enumerate(clean_db.index):
     point=np.column_stack((clean_db.Longtitude[i],clean_db.Latitude[i]))
     points.append(point)
