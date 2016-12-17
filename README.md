@@ -1,6 +1,5 @@
 # SME hospitality business investment support utilizing yelp and demographic data
  
-*Nalmpantis Alexandros – Dimitrios, MSc Data Science, City University of London*
  
 *This is a project made during the Principles of Data Science Course at City University of London.*
  
